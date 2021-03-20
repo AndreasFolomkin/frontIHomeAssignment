@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import './App.css';
-import axios from "axios";
+import axios from 'axios';
 import TableCustom from "./Components/Table/Table";
 import Upload from "./Components/Upload/Upload";
 
