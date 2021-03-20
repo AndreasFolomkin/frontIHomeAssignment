@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.delete {
+    width: 250px;
+    height: 50px;
+    border-radius: 12px;
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 43vw;
+    font-size: 20px;
+}
+
+.totalAmount {
+    padding-right: 5px;
+    background-color: rgba(3, 0, 115, 0.14);
+    text-align: right;
+    font-size: 24px;
+}
+
